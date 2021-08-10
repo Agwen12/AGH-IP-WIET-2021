@@ -1,0 +1,3 @@
+/cygdrive/d/sem2/PI/min_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/sem2/PI/min_sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/sem2/PI/min_sum/cmake-build-debug/CMakeFiles/min_sum.dir

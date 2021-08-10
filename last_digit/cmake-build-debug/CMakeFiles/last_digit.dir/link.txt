@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wconversion -Werror -g  -Wl,--enable-auto-import CMakeFiles/last_digit.dir/main.c.o  -o last_digit.exe -Wl,--out-implib,liblast_digit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

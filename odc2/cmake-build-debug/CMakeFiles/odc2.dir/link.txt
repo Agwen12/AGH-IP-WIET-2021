@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wconversion -Werror -g  -Wl,--enable-auto-import CMakeFiles/odc2.dir/main.c.o  -o odc2.exe -Wl,--out-implib,libodc2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Ring.dir/main.c.o  -o Ring.exe -Wl,--out-implib,libRing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

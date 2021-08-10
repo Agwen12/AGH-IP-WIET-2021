@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wconversion -Werror -g  -Wl,--enable-auto-import CMakeFiles/min_sum.dir/main.c.o  -o min_sum.exe -Wl,--out-implib,libmin_sum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

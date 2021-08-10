@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Balls.dir/main.c.o  -o Balls.exe -Wl,--out-implib,libBalls.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

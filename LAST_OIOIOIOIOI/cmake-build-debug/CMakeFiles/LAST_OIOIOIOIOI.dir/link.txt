@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/LAST_OIOIOIOIOI.dir/main.c.o  -o LAST_OIOIOIOIOI.exe -Wl,--out-implib,libLAST_OIOIOIOIOI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

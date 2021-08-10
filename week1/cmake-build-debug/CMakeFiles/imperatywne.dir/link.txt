@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/imperatywne.dir/main.c.o CMakeFiles/imperatywne.dir/perfectNumbers.c.o CMakeFiles/imperatywne.dir/primes.c.o  -o imperatywne.exe -Wl,--out-implib,libimperatywne.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

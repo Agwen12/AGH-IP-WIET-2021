@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/narcissistic_numbers.dir/main.c.o  -o narcissistic_numbers.exe -Wl,--out-implib,libnarcissistic_numbers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
